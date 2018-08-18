@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"ExtendedMath"},{"l":"ExtendedMath.struct"},{"l":"sample"},{"l":"sample.app"},{"l":"sample.region"},{"l":"sample.shapes"}]
