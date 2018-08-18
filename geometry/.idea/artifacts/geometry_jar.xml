@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="geometry:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/geometry_jar</output-path>
+    <root id="archive" name="geometry.jar">
+      <element id="module-output" name="triangularGeometry" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/lombok.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/redist/annotations-java8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
